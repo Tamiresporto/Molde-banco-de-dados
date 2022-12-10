@@ -1,5 +1,5 @@
 # Molde-banco-de-dados
-Estudos de Banco de dados.
+<i>Estudos de Banco de dados.<i>
 
 A forma como os dados são organizados e relacionados afeta três aspectos computacionais:
 
