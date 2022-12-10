@@ -6,6 +6,7 @@ A forma como os dados são organizados e relacionados afeta três aspectos compu
 - eficiência na forma como os dados são armazenados, recuperados e alterados dos diversos sistemas de bancos de dados, isto é, a rapidez, consumo de energia, entre outros fatores, para os dados transitarem entre o banco de dados (normalmente “existente” em discos rígidos) e a memória do computador;
 - design técnico de cada sistema de banco de dados disponíveis no mercado;
 - maneiras como os programadores, engenheiros e cientistas de dados têm de construir soluções para criar, ler, alterar ou excluir dados em um determinado sistema de banco de dados.
+  fonte: https://awari.com.br/modelos-de-banco-de-dados/?utm_source=blog
 
 neste projeto básico para estudos está sendo utilizado o modelo Relacional
 Imagem mostra várias tabelas ligadas entre si, representando uma academia, suas atividades e seus funcionários.
